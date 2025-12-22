@@ -28,6 +28,8 @@ At the same time, we remind everyone to pay attention to:
 Provided By:
 [Spercent521](https://github.com/Spercent521)
 
+[H34V3N](https://github.com/Ja5M1ne-H34V3N)
+
 ### Freshman Year
 
 > Note: Materials organized during freshman year are mainly concentrated in an old repository. Although the structure is slightly bloated, it still contains a lot of valuable content. We will continue to maintain it in the future.
@@ -37,7 +39,14 @@ Provided By:
 ### Sophomore Year
 
 #### Data Structure
-Materials are currently being organized. Some course design codes are as follows:
+
+Course PPT + Exam Review
+
+- [DataStructure](https://github.com/Spercent521/DataStructure_ForRelease)
+
+Lab References
+
+- [data_structure_lab2](https://github.com/Spercent521/data_structure_lab2)
 - [data_structure_lab3](https://github.com/Spercent521/data_structure_lab3)
 - [data-structure-lab4](https://github.com/Spercent521/data-structure-lab4)
 
