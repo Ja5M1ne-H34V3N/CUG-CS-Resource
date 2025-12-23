@@ -26,7 +26,9 @@
 ## Course Navigation
 
 由以下贡献者提供 :
+
 [Spercent521](https://github.com/Spercent521)
+
 [H34V3N](https://github.com/Ja5M1ne-H34V3N)
 
 ### Freshman Year
@@ -37,16 +39,25 @@
 
 ### Sophomore Year
 
-#### Data Structure
-目前资料正在整理中，部分课程设计代码如下：
+#### 数据结构
+
+课程PPT + 考试复习
+
+- [DataStructure](https://github.com/Spercent521/DataStructure_ForRelease)
+
+Lab参考
+
+- [data_structure_lab2](https://github.com/Spercent521/data_structure_lab2)
 - [data_structure_lab3](https://github.com/Spercent521/data_structure_lab3)
 - [data-structure-lab4](https://github.com/Spercent521/data-structure-lab4)
 
-#### Computer Network
+#### 计算机网络
 - [ComputerNetwork_ForRelease](https://github.com/Spercent521/ComputerNetwork_ForRelease)
 
-#### Discrete Mathematics
+#### 离散数学
 - [Discrete_Mathematics_ForRelease](https://github.com/Spercent521/Discrete_Mathematics_ForRelease)
 
+### 大学生生理健康
+- [Course-Report-LaTeX](https://github.com/Spercent521/Course-Report-LaTeX)
 
 
